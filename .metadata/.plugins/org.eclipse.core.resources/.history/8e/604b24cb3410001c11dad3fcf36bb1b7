@@ -9,3 +9,5 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
 spring.jpa.generate-ddl=true
 logging.level.org.hibernate.SQL=debug
 
+mysql://bc66262608b1cb:9d162209@us-cdbr-east-04.cleardb.com/heroku_7872a037f3f09a1?reconnect=true
+           user         pass          host                      name
